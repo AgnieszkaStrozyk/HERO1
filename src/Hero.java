@@ -1,10 +1,4 @@
 public class Hero {
-    //Klasa Hero będzie miała 5 parametry
-    //Imię (String)
-    //Klasę (String)
-    //Punkty siły (int)
-    //Punkty many (int)
-    //Nowa czy stara postać (boolean)
 
     private String name;
     private String classHero;
